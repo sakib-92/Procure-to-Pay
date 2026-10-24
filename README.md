@@ -6,7 +6,9 @@
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF.svg)](https://vitejs.dev/)
 [![Pytest](https://img.shields.io/badge/Tests-Passing%20(6%2F6)-brightgreen.svg)](https://docs.pytest.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Site](https://img.shields.io/badge/Live%20Demo-Online-success.svg)](https://sakib-92.github.io/Procure-to-Pay/)
 
+> 🌐 **Live Production Deployment**: [https://sakib-92.github.io/Procure-to-Pay/](https://sakib-92.github.io/Procure-to-Pay/)  
 > **Enterprise Procurement Intelligence & Automated Audit Platform**  
 > Clean Single-Source ETL Integration &bull; 8,500 Audited Purchase Orders &bull; Process Mining &bull; 3-Way Match Reconciliation &bull; Kraljic Matrix &bull; Automated PDF/Excel Board Reporting
 
